@@ -40,11 +40,36 @@ https://github.com/jasonatoledo/R_MechaCar_Statistical_Analysis/blob/main/lot_su
 
 ## Study Design: MechaCar vs Competition
 
+If I were to design a statistical study that compares MechaCar against the competitor brands, the metrics I believe would be of interest for consumers would be:
+
+- city and highway fuel efficiency
+
+- vehicle class
+
+- year car manufacturered
+
+- engine displacement
+
+- horsepower
+
+- maintenance costs
+
+- mileage
+
+
+What I would like to test is a case study of a comparison of how much maintenance cost used MechaCars vs the competition's used cars costs a consumer. I would like to survey a case of 3 to 5 year old cars.
+
+
 - What metric or metrics are you going to test?
+
+The metrics I would like to test using a study of MechaCar vs its competitors
 
 - What is the null hypothesis or alternative hypothesis?
 
 - What statistical test would you use to test the hypothesis? And why?
 
+I would test multiple linear regression to understand how much the dependent variable is affected by independent variables
+
 - What data is needed to run the statistical test?
 
+I would need the 

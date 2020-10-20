@@ -69,8 +69,8 @@ The null hypothesis would be that the car manufacturer (MechaCar) vs competition
 
 - What statistical test would you use to test the hypothesis? And why?
 
-I would test multiple linear regression to understand how much the dependent variable is affected by independent variables
+I would test multiple linear regression to be able to set the manufacturer as the independent variable and the maintenance costs as the dependent variable, along with the other metrics.
 
 - What data is needed to run the statistical test?
 
-I would need the 
+I would need the data for several car manufacturers between 3-7 years and different mileage marks with similar distribution among the manufacturers. I would also like a good sample of various classes and engine sizes as well to determine if the brand/manufacturer has an impact on the cost of maintenance.

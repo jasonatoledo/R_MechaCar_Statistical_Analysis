@@ -57,12 +57,11 @@ If I were to design a statistical study that compares MechaCar against the compe
 - mileage
 
 
-What I would like to test is a case study of a comparison of how much maintenance cost used MechaCars vs the competition's used cars costs a consumer. I would like to survey a case of 3 to 5 year old cars.
-
+What I would like to test is a case study of a comparison of how much maintenance cost used MechaCars vs the competition's used cars by vehicle class and similar mileage costs a consumer. I would also like to measure whether the engine displacement and horsepower have an effect on added maintenance costs. I would like to survey a case of 3 to 7 year old cars.
 
 - What metric or metrics are you going to test?
 
-The metrics I would like to test using a study of MechaCar vs its competitors
+The metrics I would like to test using a study of MechaCar vs its competitors would be manufacturing year, vehicle class, mileage, maintenance costs, horsepower, and engine displacement.
 
 - What is the null hypothesis or alternative hypothesis?
 

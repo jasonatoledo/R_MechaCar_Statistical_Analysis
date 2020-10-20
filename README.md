@@ -31,6 +31,7 @@ However, it is clear to see that lot 3 has a huge variance well beyond the 100 P
 https://github.com/jasonatoledo/R_MechaCar_Statistical_Analysis/blob/main/lot_summary.png
 
 
+## T-Tests on Suspension Coils
 
 
 

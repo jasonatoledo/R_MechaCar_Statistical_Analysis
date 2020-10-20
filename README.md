@@ -15,3 +15,9 @@ The slope is not considered to be zero because the p-value is very small at 5.35
 This does predict fairly well as seen by the Multiple R-Squared value of 0.71, there is a strong positive correlation between these varialbes to MPG. Even the adjusted R-Squared is very close to this at 0.68 which is still strong enough to say that here  model is significant.
 
 Screenshot of the output: https://github.com/jasonatoledo/R_MechaCar_Statistical_Analysis/blob/main/MechaCarChallenge.png
+
+
+
+## Summary Statistics on Suspension Coils
+
+

@@ -42,8 +42,6 @@ https://github.com/jasonatoledo/R_MechaCar_Statistical_Analysis/blob/main/lot_su
 
 If I were to design a statistical study that compares MechaCar against the competitor brands, the metrics I believe would be of interest for consumers would be:
 
-- city and highway fuel efficiency
-
 - vehicle class
 
 - year car manufacturered

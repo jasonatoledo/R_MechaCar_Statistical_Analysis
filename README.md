@@ -65,6 +65,8 @@ The metrics I would like to test using a study of MechaCar vs its competitors wo
 
 - What is the null hypothesis or alternative hypothesis?
 
+The null hypothesis would be that the car manufacturer (MechaCar) vs competition does not make a difference for used vehicles' maintenance costs. The alternative hypothesis would be that the manufacturer does indeed make a difference on maintenance costs for used vehicles.
+
 - What statistical test would you use to test the hypothesis? And why?
 
 I would test multiple linear regression to understand how much the dependent variable is affected by independent variables

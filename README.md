@@ -33,6 +33,8 @@ https://github.com/jasonatoledo/R_MechaCar_Statistical_Analysis/blob/main/lot_su
 
 ## T-Tests on Suspension Coils
 
+In your README, create a subheading ## T-Tests on Suspension Coils, then briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+
 
 
 

@@ -33,9 +33,13 @@ https://github.com/jasonatoledo/R_MechaCar_Statistical_Analysis/blob/main/lot_su
 
 ## T-Tests on Suspension Coils
 
-In your README, create a subheading ## T-Tests on Suspension Coils, then briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+What I found performing the T-Tests on the suspension coils first on all lots then on each lot individually is that the P-Values are all over the level of statistical significance and we would retain the null hypothesis that the lot has no effect on the PSI. Lot 2 had the lowest P-value of the 3, at 0.35 but that is still well beyond even a 0.05 significance level.
 
+Here are the photos of the results:
 
+https://github.com/jasonatoledo/R_MechaCar_Statistical_Analysis/blob/main/T_Tests.png
+
+https://github.com/jasonatoledo/R_MechaCar_Statistical_Analysis/blob/main/T_Tests2.png
 
 
 
